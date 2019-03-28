@@ -213,7 +213,7 @@ def alternating_brackets(m, n):
         for j in range(k):
             if j % 2 == 0:
                 a = '['
-                # print('[', end = '')
+                #print('[', end = '')
             else:
                 a = ']'
                 # print(']', end = '')
